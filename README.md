@@ -1,4 +1,4 @@
-# Tech Stack :
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Allura&size=50&pause=1000&color=F7D54D&center=true&vCenter=true&width=800&height=800&lines=Hi++there%2C++I'm+Sungjin++Did++you++eat%3F)](https://git.io/typing-svg)
 <div align="center">
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
