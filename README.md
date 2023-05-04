@@ -1,3 +1,6 @@
+
+![initial](https://myoctocat.com/assets/images/octocats/octocat-20.png) 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Allura&size=50&pause=1000&color=F7D54D&center=true&vCenter=true&width=800&height=800&lines=Hi++there%2C++I'm+Sungjin++Did++you++eat%3F)](https://git.io/typing-svg)
 <div align="center">
 
